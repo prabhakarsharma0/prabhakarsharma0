@@ -7,16 +7,15 @@
 
 
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prabhakarsharma0&label=Profile%20views&color=0e75b6&style=flat" alt="prabhakarsharma0" /> </p>
 
 - 📫 How to reach me **psaibtech@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/prabhakar-sharma-/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/prabhakar-sharma-/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/prabhakar-sharma-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prabhakar-sharma-" height="30" width="40" /></a>
 <a href="https://kaggle.com/prabhakarsharma21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="prabhakarsharma21" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/psaibtech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/psaibtech" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/psaibtech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="psaibtech" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
