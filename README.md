@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Prabhakar Sharma</h1>
-<h3 align="center">I'm a passionate data analyst based in India, with a deep love for exploring insights within data. My journey involves transforming raw numbers into meaningful stories that drive decisions.</h3>
+<h3 align="center">I'm a passionate cybersecurity specialist based in India, with a deep love for protecting and securing digital information. My journey involves identifying vulnerabilities and safeguarding data to ensure a secure digital environment.</h3>
 
 
 
