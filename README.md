@@ -47,4 +47,16 @@
     <td valign="top" align="center">
       <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220"/>
     </td>
-  </
+  </tr>
+</table>
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=prabhakarsharma0&show_icons=true&theme=radical" alt="GitHub stats" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prabhakarsharma0&theme=radical" alt="GitHub streak" width="45%" />
+</p>
+
+---
+
+<p align="center"><i>DM me for collaborations or security discussions!</i></p>
