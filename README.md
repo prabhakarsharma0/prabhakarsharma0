@@ -1,31 +1,74 @@
 ![logo](https://github.com/prabhakarsharma0/prabhakarsharma0/blob/main/github%20banner.png)
 
-
 <h1 align="center">Hi 👋, I'm Prabhakar Sharma</h1>
-<h3 align="center">I'm a passionate cybersecurity specialist based in India, with a deep love for protecting and securing digital information. My journey involves identifying vulnerabilities and safeguarding data to ensure a secure digital environment.</h3>
+<h3 align="center">Cybersecurity Specialist | SOC Analyst | Bug Bounty Hunter | India 🇮🇳</h3>
 
-
-
-  <img align="right" alt="coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prabhakarsharma0&label=Profile%20views&color=0e75b6&style=flat" alt="prabhakarsharma0" /> </p>
-
-- 📫 How to reach me **psaibtech@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/prabhakar-sharma-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prabhakar-sharma-" height="30" width="40" /></a>
-<a href="https://kaggle.com/prabhakarsharma21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="prabhakarsharma21" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/psaibtech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="psaibtech" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Defending+the+digital+world+one+threat+at+a+time!;SOC+L1+Triage+%7C+DFIR+%7C+OSINT+%7C+Automation;LetsDefend+Badge+Holder+%7C+Malware+Analyst;" alt="Typing SVG" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prabhakarsharma0&show_icons=true&locale=en&layout=compact" alt="prabhakarsharma0" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prabhakarsharma0&show_icons=true&locale=en" alt="prabhakarsharma0" /></p>
+🛡️ **About Me**
+- 🎯 SOC Analyst: Incident triage, alert validation, and hands-on defense
+- 🕵️‍♂️ Bug Bounty Hunter: Web application and API security (BurpSuite, Recon, Automation scripts)
+- 🐧 Linux Enthusiast: Daily terminal gamer, automation, server hardening
+- 🧑‍💻 Python Coder: For scripting, forensics, automation
+- 🔍 Digital Forensics (DFIR) & Threat Hunting
+- 🌟 Active in Cybersecurity communities & LinkedIn growth
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prabhakarsharma0&" alt="prabhakarsharma0" /></p>
+---
+
+## 🚀 Technical Skills
+
+- **SOC Tools:** SIEM (Splunk, ELK), SOAR basics, Zeek, Wireshark  
+- **Security:** Nmap, Metasploit, OSINT, Burp Suite, Recon-ng, Nikto, OpenVAS  
+- **Scripting:** Python, Bash, PowerShell (basic), Flask (for SecTools)
+- **Forensics:** Autopsy, FTK Imager, Volatility, CyberChef, hex editors
+- **Cloud:** Basic AWS/Azure Security  
+- **Linux:** Kali, Parrot, Ubuntu server  
+- **Automation:** Custom scripts for IOC enrichment, log parsing, OSINT
+
+---
+
+## 👨‍💻 Notable Projects
+- **SOC-Eye**: Fast IP reputation checker for SOC triage (Flask, VT & AbuseIPDB APIs)
+- **ML Web App Firewall:** Lead developer for university project (Flask + scikit-learn)
+- **Automated Threat Enrichment Script:** Python tool for IOC/alert enrichment
+- **Bug Bounty Recon scripts:** Custom tools for automation & reporting
+
+---
+
+## 📜 Badges & Certifications
+- LetsDefend SOC Fundamentals Badge 🥇
+- Working towards CHFI v10 & Security+  
+- See all: [LinkedIn Profile](https://linkedin.com/in/prabhakar-sharma-)
+
+---
+
+## 🌏 Connect with Me
+<p align="left">
+  <a href="https://linkedin.com/in/prabhakar-sharma-" target="blank"><img alt="linkedin" height="30" width="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" /></a>
+  <a href="https://kaggle.com/prabhakarsharma21" target="blank"><img alt="kaggle" height="30" width="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" /></a>
+  <a href="https://www.hackerrank.com/psaibtech" target="blank"><img alt="hackerrank" height="30" width="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" /></a>
+</p>
+
+---
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=prabhakarsharma0&show_icons=true&theme=tokyonight" alt="prabhakarsharma0" />
+</p>
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prabhakarsharma0&theme=tokyonight" alt="prabhakarsharma0" />
+</p>
+
+---
+
+## 🧠 Always Learning
+> "Cybersecurity is not a destination, it's a journey — continuous, challenging, and rewarding."
+
+---
+
+*DM for collaborations, discussions, or open source security projects!*
