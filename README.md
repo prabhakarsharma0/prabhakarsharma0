@@ -1,78 +1,74 @@
-# 📊 Prabhakar Sharma | Data & AI Insights Architect
+![logo](https://github.com/prabhakarsharma0/prabhakarsharma0/blob/main/github%20banner.png)
+
+<h1 align="center">Hi 👋, I'm Prabhakar Sharma</h1>
+<h3 align="center">Data Analyst | AI & Data Science Specialist | Turning Data into Insights 🇮🇳</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=prabhakarsharma0&label=Profile%20Views&color=66ff00&style=flat-square" alt="prabhakarsharma0" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Transforming+raw+data+into+actionable+business+insights!;SQL+%7C+Power+BI+%7C+Python+%7C+Excel;SIH+2022+Grand+Finalist+%7C+Data+Modeling;" alt="Typing SVG" />
 </p>
 
----
-
-## 👨‍💻 About Me
-
-Hello! I am Prabhakar Sharma, a results-driven **Data Analyst** with a strong foundation in Artificial Intelligence & Data Science (B.Tech). I specialize in extracting, cleaning, and transforming messy, complex datasets into interactive dashboards and actionable insights that back critical business decisions.
-
-### 🧩 My Unique Edge (Data Analytics + Risk Mindset)
-Coming from a solid background in **AI & Data Science** combined with strong core metrics from **Cybersecurity Log Analysis**, I bring a rigid, elite analytical approach to data integrity, anomaly detection, and deep pattern recognition. I look at data with a security-first, risk-aware mindset, ensuring all dashboards and insights are accurate, compliant, and highly structured.
+<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 ---
 
-## 🛠️ My Data Toolkit
-
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **Data Extraction & Manipulation** | SQL (PostgreSQL, MySQL), Python (Pandas, NumPy) |
-| **Visualization & Business Intelligence** | Power BI, Microsoft Excel (Advanced Formulas, Pivot Tables, DAX) |
-| **Exploratory Data Analysis (EDA)** | Python (Matplotlib, Seaborn), Statistical Data Analytics |
-| **Analytical Competencies** | Behavioral Modeling, Trend Analysis, Advanced Problem Solving |
-
----
-
-## 📈 Featured Projects
-
-### 📊 [HR Analytics Dashboard](https://github.com/prabhakarsharma0/HR-Analytics-dashboard-)
-*   **Tech Stack:** Power BI, Excel, Data Modeling
-*   **Impact:** Built a comprehensive HR metrics tracking ecosystem to monitor employee turnover, performance indicators, and key corporate demographics, streamlining strategic administrative decisions.
-
-### 📉 [MeriSKILL Data Analysis Project](https://github.com/prabhakarsharma0/MeriSKILL-Project1)
-*   **Tech Stack:** Python (Pandas, NumPy), Advanced SQL, Power BI
-*   **Impact:** Executed rigorous exploratory data analysis (EDA) and cleaning on large-scale datasets, converting raw pipeline operational figures into highly dynamic interactive dashboards.
-
-### 🤖 [API-Dost (Collaborative Testing Framework)](https://github.com/prabhakarsharma0/API-Dost)
-*   **Tech Stack:** HTML, Python, API Logic, AI Integration
-*   **Impact:** Co-developed an intelligent API testing application embedded with smart analytical features to monitor endpoints and evaluate data payload behavioral traits.
+📊 **About Me**
+- 🎯 **Data Analyst:** Specialized in data extraction, processing pipelines, and business metric optimization.
+- 🕵️‍♂️ **Analytical Edge:** Combining core AI & Data Science foundations with an elite pattern-recognition mindset from security log auditing.
+- 📈 **Visualization Specialist:** Transforming complex relational metrics into clear, high-impact interactive dashboards.
+- 🧑‍💻 **Python Coder:** Proficient in Pandas, NumPy, and automation scripts for predictive analytics and modeling.
+- 🔍 **Exploratory Data Analysis (EDA):** Passionate about diving deep into messy datasets to discover hidden trends.
+- 🌟 **Active Learner:** Focused on business intelligence growth, data governance, and strategic decision frameworks.
 
 ---
 
-## 🚦 Key Credentials & Achievements
+## 🚀 Technical Skills
 
-*   **B.Tech in Artificial Intelligence & Data Science** – MITRC College, Alwar
-*   **Smart India Hackathon (SIH) Grand Finalist** – Developed scalable technical solutions under rigorous deadlines.
-*   **Certified Network Security Practitioner (CNSP)** – Certified domain expertise in infrastructure and data security architecture.
+- **BI & Visualization:** Power BI, Microsoft Excel (Pivot Tables, Advanced Formulas, DAX)  
+- **Databases & Querying:** SQL (PostgreSQL, MySQL), Database Schema Design  
+- **Scripting & Analytics:** Python, Advanced Data Manipulation, Numpy, Pandas  
+- **Data Engineering Basics:** Data Cleaning Pipelines, Automated Log Extraction, JSON parsing  
+- **Machine Learning:** Scikit-Learn foundations, Predictive Analysis, Data Modeling  
+- **Operating Systems:** Linux (Ubuntu Server, basic system architecture), Windows  
+- **Automation:** Custom automation logic scripts for batch extraction and reporting
 
 ---
 
-## 📫 Let's Connect & Collaborate
+## 👨‍💻 Notable Projects
+- **HR-Analytics-dashboard-:** Enterprise employee metrics dashboard evaluating attrition and workforce performance indicators.
+- **MeriSKILL-Project1:** End-to-end processing pipeline implementing comprehensive exploratory data analysis (EDA) and cleaning.
+- **API-Dost:** Collaborative API deployment framework built with embedded automated data parsing and telemetry processing features.
+- **SOC-EYE:** Automated behavioral telemetry script processing dynamic server responses and infrastructure logging datasets.
 
+---
+
+## 📜 Badges & Certifications
+- Certified Network Security Practitioner (CNSP) — Integrity & Governance validation 🥇
+- Smart India Hackathon (SIH) Grand Finalist Badge 🏆
+- See all: [LinkedIn Profile](https://www.linkedin.com/in/prabhakar-sharmaps)
+
+---
+
+## 🌏 Connect with Me
 <p align="left">
-  <a href="https://www.linkedin.com/in/prabhakar-sharmaps" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://medium.com/@psaibtech" target="_blank">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
-  </a>
+  <a href="https://www.linkedin.com/in/prabhakar-sharmaps" target="blank"><img alt="linkedin" height="30" width="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" /></a>
+  <a href="https://kaggle.com/prabhakarsharma21" target="blank"><img alt="kaggle" height="30" width="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" /></a>
+  <a href="https://www.hackerrank.com/psaibtech" target="blank"><img alt="hackerrank" height="30" width="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" /></a>
 </p>
-
-*   **Portfolio Website:** https://prabhakarportfolio21.netlify.app/
-*   **Professional Discussions:** DM open on LinkedIn for Data Architecture & Business Intelligence projects!
 
 ---
 
-### 📊 GitHub Activity Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prabhakarsharma0&show_icons=true&locale=en&theme=dark&hide_border=true" alt="prabhakarsharma0's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=prabhakarsharma0&layout=compact&langs_count=6&theme=dark&hide_border=true" alt="prabhakarsharma0's Top Languages" width="48%" />
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=prabhakarsharma0&show_icons=true&theme=tokyonight" alt="prabhakarsharma0" />
+</p>
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prabhakarsharma0&theme=tokyonight" alt="prabhakarsharma0" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prabhakarsharma0&theme=dark&hide_border=true" alt="prabhakarsharma0's Contribution Streak" />
-</p>
+---
+
+## 🧠 Always Learning
+> "Data analytics is not just about reading rows and columns — it's the art of interpreting the story they are trying to tell."
+
+---
+
+*DM for collaborations, professional data discussions, or open source analytics projects!*
